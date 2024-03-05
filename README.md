@@ -34,6 +34,8 @@ By completing this reflection, you will gain a clearer understanding of your car
          -  JavaScript is a powerful language for adding interactivity 
                  and dynamic behavior to web pages.
     - Identify skills you need to develop or improve.
+         - JavaScript: Dive deeper into JavaScript. Learn about ES6 features, libraries (e.g., 
+            React, Vue, or Angular), and best practices.
 2. **Interests and Values**:
     
     - Describe your key interests related to your career.
