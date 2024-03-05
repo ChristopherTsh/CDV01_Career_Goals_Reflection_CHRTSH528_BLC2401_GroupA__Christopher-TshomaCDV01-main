@@ -45,8 +45,8 @@ By completing this reflection, you will gain a clearer understanding of your car
            fundamentals of web development. Additionally, I am proficient in using Git for 
            version control and collaboration.
     - What values are important to you in a work environment?.
-          - Meeting Deadlines: I believe in delivering on time and ensuring that commitments are honored.
-          - Dedication and Effort: I put my full effort into every project I undertake, striving for excellence.
+           -  Meeting Deadlines: I believe in delivering on time and ensuring that commitments are honored.
+           - Dedication and Effort: I put my full effort into every project I undertake, striving for excellence.
            - reating a Friendly Environment: Fostering a positive and collaborative atmosphere where everyone feels comfortable and respected is crucial.
            - Collaboration and Productivity: I value working together with colleagues, pooling our expertise, and dedicating the necessary hours to achieve successful outcomes.
 
