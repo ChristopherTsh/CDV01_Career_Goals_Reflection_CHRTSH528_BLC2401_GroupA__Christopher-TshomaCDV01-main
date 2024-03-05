@@ -44,7 +44,7 @@ By completing this reflection, you will gain a clearer understanding of your car
            a strong foundation in HTML, Java, and CSS, and I am committed to understanding the 
            fundamentals of web development. Additionally, I am proficient in using Git for 
            version control and collaboration.
-    - What values are important to you in a work environment?
+    - What values are important to you in a work environment?.
           - Meeting Deadlines: I believe in delivering on time and ensuring that commitments are honored.
           - Dedication and Effort: I put my full effort into every project I undertake, striving for excellence.
            - reating a Friendly Environment: Fostering a positive and collaborative atmosphere where everyone feels comfortable and respected is crucial.
