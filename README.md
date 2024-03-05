@@ -88,7 +88,16 @@ By completing this reflection, you will gain a clearer understanding of your car
 2. **Long-term Goals** (3-5 years and beyond):
     
     - Outline your long-term career aspirations.
+        -  My ultimate goal is to launch a successful app in the market—one that I’ve 
+           meticulously crafted from the ground up. Beyond that, I aspire to establish and 
+          lead my own tech company. These aspirations align seamlessly with my deep-rooted 
+          interests in technology, innovation, and entrepreneurship.
     - Describe how these align with your interests and skills.
+         - Learning to code provides me with a strategic advantage in achieving my long- 
+           term goal. My passion lies in creating solutions from scratch, and this aligns 
+           perfectly with my interest in technology. By honing my coding skills, I can 
+            transform ideas into tangible applications, laying the groundwork for future 
+           success.
 
 ### Part 4: Action Plan
 
