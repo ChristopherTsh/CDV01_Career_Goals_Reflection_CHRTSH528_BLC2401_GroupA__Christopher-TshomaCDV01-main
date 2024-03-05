@@ -88,9 +88,7 @@ By completing this reflection, you will gain a clearer understanding of your car
           user interactions, and build robust features. This proficiency directly 
           translates to employability and career growth.
 
-          -   Applied Learning: The transition from theory to practice is crucial. 
-            By working on real-world projects, I’ll encounter actual scenarios, 
-            collaborate with others, and learn to meet deadlines. This practical 
+          -  Applied Learning: The transition from theory to practice is crucial.By working on real-world projects, I’ll encounter actual scenarios,collaborate with others, and learn to meet deadlines. This practical 
             experience will prepare me for the challenges I’ll face in 
             professional settings.
 2. **Long-term Goals** (3-5 years and beyond):
