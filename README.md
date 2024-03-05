@@ -26,12 +26,12 @@ By completing this reflection, you will gain a clearer understanding of your car
 1. **Skills Analysis**:
     
     - List your current skills and areas of expertise.
-         -  HTML Your proficiency in HTML enables you to structure web 
+         -  HTML : proficiency in HTML enables you to structure web 
             content, define elements, and create the foundation for web pages.
-         -  CSS complements HTML by controlling the visual presentation of web 
+         -  CSS : complements HTML by controlling the visual presentation of web 
                content
 
-         -  JavaScript is a powerful language for adding interactivity 
+         -  JavaScript : is a powerful language for adding interactivity 
                  and dynamic behavior to web pages.
     - Identify skills you need to develop or improve.
          - JavaScript: Dive deeper into JavaScript. Learn about ES6 features, libraries (e.g., 
